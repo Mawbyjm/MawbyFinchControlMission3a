@@ -10,6 +10,7 @@ namespace MawbyFinchControlMission3a
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("Test");
         }
     }
 }
